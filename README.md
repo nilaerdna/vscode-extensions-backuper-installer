@@ -1,2 +1,12 @@
-# vscode-extensions-backuper-installer
-Backup and Install Visual Studio Code Extensions for Easy Transport 
+# Visual Studio Code Extensions Backuper and Installer
+Backup and Install Visual Studio Code Extensions for Easy Transport!
+## Backup
+- Run **"backup-extensions.bat"** to backup your extensions.
+The result should be something like this:
+
+![backup-extensions.bat](https://i.imgur.com/D4hsYVP.png)
+
+- Save the resulting file somewhere.
+## Install
+- Run **"extensions-installer.bat"** to install the extensions from the file **"myExtensions.txt"**.
+- It will install all the extensions to the computer you're in!
