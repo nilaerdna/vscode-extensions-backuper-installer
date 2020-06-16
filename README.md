@@ -1,5 +1,7 @@
 # Visual Studio Code Extensions Backuper and Installer
 Backup and Install Visual Studio Code Extensions for Easy Transport!
+## Requirements
+- Code in PATH.
 ## Backup
 - Run **"backup-extensions.sh"** or **"backup-extensions.bat"** to backup your extensions.
 
