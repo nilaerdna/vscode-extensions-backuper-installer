@@ -11,5 +11,7 @@ The result should be something like this:
 - Run **"extensions-installer.bat"** to install the extensions from the file **"myExtensions.txt"**.
 - It will install all the extensions to the computer you're in!
 
+-----
+
 ### TODO
 - Let the user choose the filename / filepath (shouldn't be too difficult, was too lazy to do that)
